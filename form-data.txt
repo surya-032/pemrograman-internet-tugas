@@ -1,0 +1,47 @@
+Nama Lengkap: 
+NIM: 
+Password: 
+Email: 
+Tanggal Lahir: 
+Gender / Jenis Kelamin: 
+Anda belum memilih semester.
+Program Studi: Teknik Arsitektur
+Alamat Lengkap Anda:
+
+Usia/Umur: 
+NO.Telepon: 
+--------------------------------------------------
+Nama Lengkap: 
+NIM: 
+Password: 
+Email: 
+Tanggal Lahir: 
+Gender / Jenis Kelamin: 
+Anda belum memilih semester.
+Program Studi: Teknik Arsitektur
+Alamat Lengkap Anda:
+
+Usia/Umur: 
+NO.Telepon: 
+--------------------------------------------------
+Nama Lengkap: I Putu Gede Surya Pratama
+NIM: 2205551032
+Password: adminjxisjxijx
+Email: admin@gmail.com
+Tanggal Lahir: 2023-10-11
+Gender / Jenis Kelamin: laki-laki
+Semester Yang Anda Ditempuh:
+- semester 1
+- semester 2
+- semester 3
+- semester 4
+- semester 5
+- semester 6
+- semester 7
+- semester 8
+Program Studi: Teknologi Informasi
+Alamat Lengkap Anda:
+Karangasem, lalaalalalaa allalalala lalalalal lalalalla lalalalla lalalalala laalala 
+Usia/Umur: 19
+NO.Telepon: 087765495607
+--------------------------------------------------
